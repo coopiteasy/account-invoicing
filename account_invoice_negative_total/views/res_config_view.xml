@@ -13,7 +13,9 @@
                         />
                         </div>
                         <div class="o_setting_right_pane">
-                            <label for="group_validate_invoice_negative_total_amount" />
+                            <label
+                            for="group_validate_invoice_negative_total_amount"
+                        />
                         </div>
                     </div>
             </xpath>

@@ -9,8 +9,8 @@
     "summary": """
         Allow validating an invoice with a negative total amount
              """,
-    "author": "Beescoop - Cellule IT, Coop IT Easy SCRLfs",
-    "website": "https://github.com/beescoop/Obeesdoo",
+    "author": "Beescoop - Cellule IT, Coop IT Easy SCRLfs, Odoo Community Association (OCA)",
+    "website": "https://coopiteasy.be",
     "category": "Account Module",
     "version": "12.0.1.1.0",
     "depends": ["account"],
