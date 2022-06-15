@@ -10,8 +10,8 @@
         Makes date_invoice field required in account.invoice_form and
         account.invoice_supplier_form
              """,
-    "author": "Beescoop - Cellule IT, Coop IT Easy SCRLfs",
-    "website": "https://github.com/beescoop/Obeesdoo",
+    "author": "Beescoop - Cellule IT, Coop IT Easy SCRLfs, Odoo Community Association (OCA)",
+    "website": "https://coopiteasy.be",
     "category": "Account Module",
     "version": "12.0.1.1.0",
     "depends": ["account"],
